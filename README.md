@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (E
 ## Estructura del Repositorio
 - `/EDA`: Incluye notebooks para EDA y modelos.
 - `/datasets`: Contiene el dataset.
-- `/selected_dataset`: Almacena .
+- `/selected_dataset`: Almacena los datasets seleccionados.
 
 ## Instrucciones para Ejecutar
 1. Clona el repositorio.
